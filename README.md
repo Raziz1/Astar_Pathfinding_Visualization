@@ -1,6 +1,10 @@
 # Astar_Pathfinding_Visualization 📉📈📊
 A* (star) Pathfinding Algorithm in Processing 
 
+<p> 
+  <img widht=400 height=417 align='Right' src="https://github.com/Raziz1/Astar_Pathfinding_Visualization/blob/main/images/astar_visualization.gif? raw=true">
+</p>
+
 ## Overview 
 * I followed the Coding Train's tutorial on A* (star) pathfinding to get a better understanding of the algorithm involved.
 * I have used their code and modified it for a better visualization of the algorithm
