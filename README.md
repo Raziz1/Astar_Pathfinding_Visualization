@@ -32,3 +32,4 @@ A* (star) Pathfinding Algorithm in Processing
 * [Coding Train Github A* (star)](https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_051_astar/Processing/CC_051_astar)
   * [YOUTUBE Coding Train A* (star) Pathfinding](https://www.youtube.com/watch?time_continue=80&v=aKYlikFAV4k&feature=emb_logo)
 * [Brilliant A* Search](https://brilliant.org/wiki/a-star-search/)
+* [Pathfinding Algorithms](https://medium.com/@urna.hybesis/pathfinding-algorithms-the-four-pillars-1ebad85d4c6b) Explores the essential pathfinding algorithms 
