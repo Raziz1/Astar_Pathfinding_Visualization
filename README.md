@@ -16,9 +16,18 @@ A* (star) Pathfinding Algorithm in Processing
 4. Left click to speed up the algorithm
 5. Right click to pause/unpause the algorithm
 
+## A* (star) Pathfinding
+* A* is a pathfinding algorithm that is popular for its ability to find the optimal solution fo rthe shortest distance between two nodes.
+* A* is considered an extension of the [Dijkstra's algorithm](https://www.programiz.com/dsa/dijkstra-algorithm)(It simply explores the graph in a different (and less optimized) order.)
+* A* determines the best path based on the cost of the path and an estimate of the cost required to extend the path to the goal
+   * f(n) = g(n) + h(n)
+   * g(n) is the cost of the path from the start node to n
+   * h(n) is a heuristic function that estimates the cost of the cheapest path from n to the goal.
+
 ## Resources 📚
 * [Wikipedia A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
 * [Easy A* (star) Pathfinding](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2)
   * This website has a great step by step explenation of how the algorithm finds the shortest path
 * [Coding Train Github A* (star)](https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_051_astar/Processing/CC_051_astar)
   * [YOUTUBE Coding Train A* (star) Pathfinding](https://www.youtube.com/watch?time_continue=80&v=aKYlikFAV4k&feature=emb_logo)
+* [Brilliant A* Search](https://brilliant.org/wiki/a-star-search/)
