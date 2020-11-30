@@ -6,7 +6,7 @@ A* (star) Pathfinding Algorithm in Processing
 </p>
 
 ## Overview 
-* I followed the Coding Train's tutorial on A* (star) pathfinding to get a better understanding of the algorithm involved.
+* I followed the **[Coding Train's tutorial on A* (star) pathfinding](https://www.youtube.com/watch?time_continue=80&v=aKYlikFAV4k&feature=emb_logo)** to get a better understanding of the algorithm involved.
 * I have used their code and modified it for a better visualization of the algorithm
 
 ## Instructions 📃
