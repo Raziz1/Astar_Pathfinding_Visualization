@@ -23,6 +23,7 @@ A* (star) Pathfinding Algorithm in Processing
    * f(n) = g(n) + h(n)
    * g(n) is the cost of the path from the start node to n
    * h(n) is a heuristic function that estimates the cost of the cheapest path from n to the goal.
+      * The Manhattan distance (explained below) from node n to the goal is often used. This is a standard heuristic for a grid.
 
 ## Resources 📚
 * [Wikipedia A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
