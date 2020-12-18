@@ -8,6 +8,7 @@ A* (star) Pathfinding Algorithm in Processing
 ## Overview 
 * I followed the **[Coding Train's tutorial on A* (star) pathfinding](https://www.youtube.com/watch?time_continue=80&v=aKYlikFAV4k&feature=emb_logo)** to get a better understanding of the algorithm involved.
 * I have used their code and modified it for a better visualization of the algorithm
+* I have included a delay in the code so it is easier to see the steps of the algorithm.
 
 ## Instructions 📃
 1. Left click once to set the start node
